@@ -167,6 +167,7 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Gallery](https://material.io/tools/gallery/) — a collaborative tool for uploading design work, getting feedback, and tracking revisions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [HiveDesk](https://www.hivedesk.com/) — an automatic time tracking for remote employees with screenshots. It makes it easier to monitor productivity of remote employees and manage projects.
 * [Jira](https://www.atlassian.com/software/jira) — software development tool used by agile teams.
+* [Jitsi](https://jitsi.org/) — multi-platform open-source video conferencing you can install yourself or use on their servers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Keybase](https://keybase.io) — a free collaboration app with built-in end-to-end encrypted chat, file sharing, git repositories, and more ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Mattermost](https://mattermost.com/) — a flexible, open source messaging platform that meets even the most demanding privacy and security standards. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Milanote](https://milanote.com/) — an easy-to-use, collaborative tool to organize your ideas and projects into visual boards.
@@ -183,6 +184,8 @@ Looking to try some tools for agile design and development collaboration? Good i
 * [Workzone](https://www.workzone.com/) — a simple, powerful project management software.
 * [Wrike](https://www.wrike.com/) — an online project management software that gives you full visibility and control over your tasks.
 * [Zenkit](https://zenkit.com/) — a tool to schedule meetings, track project’s progress and brainstorm new ideas.
+* [Zulip](https://zulipchat.com/) — combines immediacy of real-time chat with an email threading model, helping to focus on important conversations while ignoring irrelevant ones. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+
 
 <div class="banner banner--yellow">
 
@@ -269,6 +272,7 @@ The creative process can be tough. So if ideas don’t come to your mind right a
 * [CodeMyUI](https://codemyui.com/) — handpicked collection of web design & UI inspiration with code snippets. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Collect UI](http://collectui.com/) — a platform for your daily inspiration collected from daily ui & beyond. Based on Dribbble shots, 14419 hand picked designs. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Creative Portfolios](http://www.creative-portfolios.com/) — a curation of the most creative portfolios made by designers & developers.
+* [Design Hunt](https://itunes.apple.com/us/app/design-hunt/id968588816?mt=8) — a daily collection of the best products, apps, and inspirations for all creatives. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Dribbble](https://dribbble.com/) — an online community for showcasing user-made artwork. Great resource to get inspired from others work.
 * [Inspiration UI](http://inspirationui.com/) — community that aims to provide the best design resources for those who create for the web. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Hover States](https://hoverstat.es/) — showcase great work from the bleeding edge of digital culture for, and with, the creative community.
@@ -352,7 +356,7 @@ Developers actively use version control tools for a long time, probably since 20
 
 * [Abstract](https://www.abstract.com/) — a platform for design teams to version, manage and collaborate on Sketch files.
 * [Folio](http://folioformac.com/) — a simple version control system for design teams based on Git. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
-* [Kactus](https://kactus.io/) — design version control without changing your tools. Manage changes, document work and keep your team in sync. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
+* [Kactus](https://kactus.io/) — design version control without changing your tools. Manage changes, document work and keep your team in sync. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Plant](https://plantapp.io/) — Mac app and Sketch plugin offering complete version control for designers and teams. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Relay for Figma](https://relay.graphics/) — Relay pushes your latest assets from Figma directly to your codebase (not released yet).
 * [Versions](https://versions.sympli.io) — a version control tool for designers with visual diff, merge and conflict resolution. Works with GitHub, Bitbucket, GitLab and Azure Devops.
@@ -485,11 +489,13 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 
 * [Absurd Design](https://absurd.design) — free surrealist illustrations for your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [DrawKit](https://www.drawkit.io/) — a collection of fully customisable SVG illustrations, in two styles, available to use on your next project, app, or website. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Humaaans](https://www.humaaans.com/) — a free library to mix-&-match illustrations of people. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+ * [Illustration by Pngtree](https://pngtree.com/illustration-design) — over 13142 professionally designed illustrations of different styles. 
+* [IRA Design](https://iradesign.io/) — create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [LukaszAdam](https://lukaszadam.com/illustrations) —  free vector art illustrations and icons. They are available for personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ManyPixels](https://gallery.manypixels.co) — royalty-free illustrations to power up your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Ouch](https://icons8.com/ouch) — vector illustrations to class up your project. Free for both personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-* [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-
+* [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) 
 
 
 </article>
@@ -601,7 +607,8 @@ Pixel art is a digital art form where color is applied to individual pixels to c
 
 * [Aseprite](https://www.aseprite.org/) — animated sprite editor & pixel art tool.
 * [Data Pixels](https://github.com/gmattie/Data-Pixels) — create pixel art programmatically. Includes DataPixels.js and Data Pixels Playground desktop app. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [Grafx2](https://gitlab.com/GrafX2/grafX2) — a bitmap paint program inspired by the Amiga programs ​Deluxe Paint and Brilliance. Specialized in 256-color drawing. [open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Draw!](http://www.drawbang.com/) — open source and free web-based pixel art and GIF editor. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [Grafx2](https://gitlab.com/GrafX2/grafX2) — a bitmap paint program inspired by the Amiga programs ​Deluxe Paint and Brilliance. Specialized in 256-color drawing. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [GraphicsGale](https://graphicsgale.com/us/) — has many pixel-art specific features, including palette control, selectively erasing colors, and tools for quickly replacing and trying new colors. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Goya](https://jackschaedler.github.io/goya/) — a pixel-art editor built on ClojureScript and Om. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Make 8 bit art](https://make8bitart.com/) — an open source and in-browser pixel art drawing tool. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) [![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)](https://github.com/jennschiffer/make8bitart)
@@ -630,10 +637,12 @@ A prototype is a simple experimental design of a proposed solution. It should he
 * [Lightwell](https://lightwell.pro/) — visual tool and SDK to build mobile layouts and animations that translate into native iOS elements. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Marvel App](https://marvelapp.com/) — the collaborative design platform. Wireframe, prototype, design online and create design specs in one place.
 * [Maze](https://maze.design/) — a tool for designers and developers that gives analytical results with actionable KPIs for your Invision prototypes.
+* [Origami](https://origami.design/) — a free tool for designing modern user interfaces. Quickly put together a prototype, run it on your iPhone or iPad, iterate on it, and export code snippets your engineers can use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [Pencil](https://pencil.evolus.vn/) — prototyping tool with many built-in components that people can easily install and use to create mockups in popular desktop platforms. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Principle](https://principleformac.com/) — makes it easy to design animated and interactive user interfaces. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 * [ProtoPie](https://www.protopie.io/) — piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly as your app should.
+* [Prott](https://prottapp.com/) — an easy to use and intuitive prototyping tool, promotes team collaboration.
 * [Uizard](https://uizard.io/) — transform wireframes into high-fidelity interactive prototypes, customize style systems, export to Sketch, export to HTML/CSS code. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
@@ -704,6 +713,7 @@ You can also do some sketching with Sketch mentioned in [UI design tools](https:
 <article id="smm-design-tools">
 
 ### SMM Design Tools
+Often marketing teams need well-design materials. It can be different banners, promo visuals, favicons, animations or just nice images for social platforms, like Twitter or Instagram. It this section we will keep adding tools for everyone to create marketing designs. 
 
 * [Canva](https://www.canva.com/) — create stunning designs for work, life, and play—even if you're not a design expert! 
 * [Crello](https://crello.com/) — create your own designs: posts, covers, graphics, and posters using the best software on the web. 
@@ -766,6 +776,7 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 * [Startup Stock Photos](http://startupstockphotos.com/) — free photos for startups, bloggers and publishers. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [StockSnap.io](https://stocksnap.io/) — a large selection of free stock photos and high resolution images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [StyledStock](https://styledstock.co/) — free feminine stock photography for every woman entrepreneur. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [The Gender Spectrum Collection](https://broadlygenderphotos.vice.com/) — a stock photo library featuring images of trans and non-binary models that go beyond the clichés. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [UI Faces](https://uifaces.co/) — aggregator that indexes various free avatar sources that you can use in your design mockups. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Unsplash](https://unsplash.com) — stock photos free to use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [#WOCinTech Chat Photos](https://www.flickr.com/photos/wocintechchat) — free stock photos of women technologists of diverse backgrounds. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
@@ -813,6 +824,7 @@ What are the best UI design tools in 2019? You can pick any of the tools below a
 
 * [Adobe XD](https://www.adobe.com/products/xd.html) — design, prototype, and share any user experience, from websites and mobile apps to voice interactions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — a vector graphics editor for macOS, iOS, and Microsoft Windows.
+* [Akira](https://github.com/akiraux/Akira) — native Linux App for UI and UX Design built in Vala and Gtk. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Botmock](https://www.botmock.com) — design, prototype, and test voice and text conversational apps. Supports multiple platforms.
 * [CleverBrush](https://www.cleverbrush.com/) — a browser-based online vector editor and digital publishing tool which is possible to integrate to page as JS component.
 * [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
@@ -919,7 +931,7 @@ A wireframe is a visual mockup that outlines the basic structure of the site or 
 
 * [Autodesk](https://www.autodesk.com/products/fusion-360/overview) — integrated CAD, CAM, and CAE software. Unify design, engineering, and manufacturing into a single platform.
 * [Blender](https://www.blender.org/) — free and open source 3D Creation Software. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
-* [FreeCAD](https://www.freecadweb.org/) — a free and opensource multiplatform 3D parametric modeler. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
+* [FreeCAD](https://www.freecadweb.org/) — a free and opensource multiplatform 3D parametric modeler. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [MatterControl](https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6) — a free, open-source, all-in-one software package that lets you design, slice, organize, and manage your 3D prints. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)
 * [Maya](https://www.autodesk.com/products/maya/overview) — make animations, environments, motion graphics, virtual reality, and character creation, all in one toolset.
 * [Onshape](https://www.onshape.com/) — a modeling software specially oriented to design technical and spare parts, was the first full-cloud 3D software created.
